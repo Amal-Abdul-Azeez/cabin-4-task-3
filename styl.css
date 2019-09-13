@@ -1,0 +1,116 @@
+
+header{
+    text-align: center;
+    color: chartreuse;
+    font-family: ALGERIAN;
+}
+div.three{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size:30px;
+    color:rgb(107, 17, 17);
+}
+body{
+     background:linear-gradient(rgb(18, 66, 18),rgb(53, 138, 53),rgb(18, 77, 18));
+     background-repeat: no-repeat;
+     background-size:cover;
+ }
+ section{
+     background: linear-gradient(rgb(235, 111, 111),rgb(83, 7, 7));
+     background-size: cover;
+     background-repeat: no-repeat;
+     color: aliceblue;
+     width: 200px;
+     height:200px;
+     margin:100px;
+     margin-top: 0px;
+     padding-top: 5px;
+     padding-left:0;
+     
+   
+  
+  }
+  
+ 
+
+ button.one{
+     color: white;
+     shape-margin: 10px;
+     background-color:rgb(73, 22, 22);
+     
+ }
+
+ 
+ 
+ li,button{
+     width:125px;
+     height:25px;
+     display:block;
+     font-size: 10px;
+     text-align: center;
+     margin:0;
+   
+     
+     
+ }
+ .center {
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+      width: 15%;
+      
+     }
+
+ 
+ ul{
+     
+     list-style-type: none;
+ }
+li.one
+ {
+     background-color: rgb(228, 93, 93);
+     color:rgb(202, 202, 74);
+     margin-top: 0;
+     font-size: 15px;
+     
+     
+ }  
+ 
+ div.one{
+     position: relative;
+     top:100px;
+     left:100px;
+    
+ }
+
+ div.two {
+    position: relative;
+    top:-200px;
+    left:700px ;
+   
+  }
+ div.three{
+     position: relative;
+     top:-450px;
+     left:600px;
+     font-family: chiller;
+     font-size: 40px;
+ }
+ div.four{
+     
+     position: relative;
+     top:-350px;
+     left:475px;
+    }
+button.b{
+  
+        background-color: rgb(206, 189, 40);
+        border: none;
+        color: white;
+        padding: 20px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 16px;
+        margin: 2px 2px;
+        border-radius: 12px;
+      }
